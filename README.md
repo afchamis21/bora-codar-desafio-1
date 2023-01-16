@@ -1,6 +1,6 @@
-# #boraCodar - Desafio 2
+# #boraCodar - Desafio 1
 
-Segundo projeto do desafio <a href="https://boracodar.dev/">boracodar.dev</a> da rocketseat. Ele consiste em uma página para exibir uma imagem de um sofá, com dois modos de exibição, estático e animado.
+Primeiro projeto do desafio <a href="https://boracodar.dev/">boracodar.dev</a> da rocketseat. Ele consiste na parte visual de um Music Player
 
 ## Tecnologias:
  - React + Vite + TS
